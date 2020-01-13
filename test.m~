@@ -1,0 +1,2 @@
+ri=refractiveindex.fromdatabase;
+[ri.group,ri.material,ri.name]=exploredatabase()
